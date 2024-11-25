@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+my name is Sam but I go by Peerless online. I am currently a student majoring in cybersecurity. On the side, I like to dabble in bash files to try and learn all I can. 
 <!--
 **PeerlessScarred/PeerlessScarred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
